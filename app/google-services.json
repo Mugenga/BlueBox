@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "773805613982",
+    "firebase_url": "https://bluebox-1c5be.firebaseio.com",
+    "project_id": "bluebox-1c5be",
+    "storage_bucket": "bluebox-1c5be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773805613982:android:bcf02822f61fd9ba30ac8f",
+        "android_client_info": {
+          "package_name": "com.example.bluebox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773805613982-uh20rddlo6os2doadfhm81v6ft3cn1c7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bluebox",
+            "certificate_hash": "b122a48894480806daa83c96abed6049e2fe638e"
+          }
+        },
+        {
+          "client_id": "773805613982-slkjgcf7ru274ovo83q14debd05cosb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSBbWIweplBxgf9qTq6mJ-yOrjQ6wexJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773805613982-slkjgcf7ru274ovo83q14debd05cosb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
